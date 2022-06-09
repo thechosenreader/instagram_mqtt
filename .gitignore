@@ -6,3 +6,4 @@ node_modules/
 src/main.ts
 src/reversing.ts
 dev/
+package-lock.json
