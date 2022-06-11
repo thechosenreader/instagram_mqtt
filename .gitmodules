@@ -1,3 +1,0 @@
-[submodule "lib/instagram-private-api"]
-	path = lib/instagram-private-api
-	url = git@github.com:thechosenreader/instagram-private-api.git
